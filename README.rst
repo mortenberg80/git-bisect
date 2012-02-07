@@ -10,11 +10,13 @@ You can demonstrate this by the following commands:
 - git bisect start
 - git bisect bad master
 - git bisect good b6911ee
+
   b6911ee points to my initial commit
 
 Then use:
 
 - git bisect <good/bad>
+
   until you find your commit
 
 Automatically
