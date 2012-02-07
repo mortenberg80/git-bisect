@@ -116,4 +116,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testApp18()
+    {
+        assertTrue( true );
+    }
 }
